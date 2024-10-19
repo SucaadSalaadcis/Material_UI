@@ -1,0 +1,53 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": "1"
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": "2"
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": "3"
+    },
+    {
+      "id": "a5a0",
+      "title": "Buy a milk",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi qui ratione hic ut, blanditiis laudantium asperiores omnis, sequi similique atque praesentium, consequuntur quae incidunt? Aliquam natus alias eum ex earum omnis expedita ducimus, molestias laborum a voluptates eveniet error aliquid, ipsam iure? Omnis, explicabo. Expedita assumenda impedit qui, aut quo eaque in aspernatur nobis saepe at porro aliquam perspiciatis error?",
+      "category": "todo"
+    },
+    {
+      "id": "5824",
+      "title": "Go to the dentist",
+      "details": "today at the evening i.a",
+      "category": "reminder"
+    },
+    {
+      "id": "2e77",
+      "title": "Learn nextjs",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi qui ratione hic ut, blanditiis laudantium asperiores omnis, sequi similique atque praesentium, consequuntur quae incidunt",
+      "category": "todo"
+    },
+    {
+      "id": "39d3",
+      "title": "Call mom",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "category": "todo"
+    },
+    {
+      "id": "da21",
+      "title": "Buy books",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi qui ratione hic ut, blanditiis laudantium asperiores omnis, sequi similique atque praesentium",
+      "category": "reminder"
+    }
+  ]
+}
+
